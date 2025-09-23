@@ -1,0 +1,50 @@
+leftnav:
+- identifier: 04eed4c2-e03e-e499-2f74-03e77273d890
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: f99ab93d-ec5b-e8c8-f3d4-2526fd00bd92
+  name: Helping Students Learn to Present Mathematics
+  pageRef: /pages/instructor-insights/present-mathematics
+  parent: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
+  weight: 30
+- identifier: 3c03b5f9-3ec8-803f-da53-1066aded0138
+  name: Helping Students Learn to Write Mathematics Papers
+  pageRef: /pages/instructor-insights/write-mathematics-papers
+  parent: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
+  weight: 40
+- identifier: 429d1f12-108e-0eb4-8f49-e9cfaf92c403
+  name: Conveying Mathematical Content Through Student Lectures
+  pageRef: /pages/instructor-insights/conveying-mathematical-content
+  parent: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
+  weight: 50
+- identifier: 020c887f-2918-e7ab-022e-5fded9505d05
+  name: Customizing a Prescribed Course Structure
+  pageRef: /pages/instructor-insights/customizing
+  parent: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
+  weight: 60
+- identifier: 505395b2-96e0-3d8f-bf32-956b77d837e7
+  name: Adapting the Course in Response to Student Feedback
+  pageRef: /pages/instructor-insights/student-feedback
+  parent: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
+  weight: 70
+- identifier: e803d8bc-7706-e2b1-ffda-554c4900cb98
+  name: Lecture Summaries
+  pageRef: /pages/lecture-summaries
+  weight: 80
+- identifier: 34ad0dee-49a3-4c53-f0a6-6d017266bbd0
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 90
+- identifier: 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116
+  name: Final Paper
+  pageRef: /pages/final-paper
+  weight: 100
+- identifier: 7b398759-e703-f530-0208-8fa3701082da
+  name: Teaching Notes
+  pageRef: /pages/teaching-notes
+  weight: 110

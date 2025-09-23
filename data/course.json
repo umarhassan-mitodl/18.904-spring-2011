@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "624362b7-8082-9948-987b-5252bcd37489",
+  "instructors": {
+    "content": [
+      "b2773a9e-9567-d3a9-c2b5-af4cf724cc32"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d26157d4-799e-6761-5995-dafb4f02b2b9",
+    "website": "18-904-seminar-in-topology-spring-2011"
+  },
+  "course_title": "Seminar in Topology",
+  "course_description": "This course is a seminar in topology. The main mathematical goal is to learn about the fundamental group, homology and cohomology. The main non-mathematical goal is to obtain experience giving math talks.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.904",
+  "course_image_thumbnail": {
+    "content": "855f68ec-f732-f2f4-ded0-f5beb14387f0",
+    "website": "18-904-seminar-in-topology-spring-2011"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Projects with Examples",
+    "Instructor Insights",
+    "Open Textbooks"
+  ],
+  "site_uid": "6863e9f9-9098-45fc-bd6f-90f1741bcb31",
+  "site_short_id": "18.904-spring-2011",
+  "site_url_path": "courses/18-904-seminar-in-topology-spring-2011",
+  "title": "Course Metadata"
+}
