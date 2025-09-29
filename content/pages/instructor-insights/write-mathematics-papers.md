@@ -18,7 +18,7 @@ _In this section, Dr. Snowden describes some aspects of mathematical writing tha
 The Writing Requirement in Undergraduate Math Seminars
 ------------------------------------------------------
 
-One {{% resource_link "09442a80-56e5-48d4-a3dc-800c711a33c9" "requirement" %}} of undergraduate math seminar classes is that students write and revise a math paper roughly 10 pages long. Through this process, students are expected to learn more about how mathematicians write.
+One [requirement](http://mathcomm.org/courses/course-structure/) of undergraduate math seminar classes is that students write and revise a math paper roughly 10 pages long. Through this process, students are expected to learn more about how mathematicians write.
 
 In this particular class, students were required to write an expository {{% resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "final paper" %}} on a specific topic related to the course. I came up with a list of possible topics and put it on the class webpage to give the students ideas. I didn't require them to use one of these topics, but I think everyone did. Students had to choose a topic 5 weeks into the semester, hand in a draft 10 weeks into the semester, and then hand in the final paper 12 weeks into the semester.
 

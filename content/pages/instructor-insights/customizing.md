@@ -14,7 +14,7 @@ uid: 020c887f-2918-e7ab-022e-5fded9505d05
 ---
 *Undergraduate math seminars abide by a basic, defined structure, with some room for instructors to customize the courses they are leading. In this section, Dr. Snowden describes some of the ways in which he customized the course structure for the Spring 2011 offering of Seminar in Topology.*
 
-Since the Seminar in Topology is an {{% resource_link "09442a80-56e5-48d4-a3dc-800c711a33c9" "undergraduate math seminar" %}}, parts of the course structure were pre-determined. For example, it was required that students give the vast majority of class lectures and that students write at least one substantial math paper with a revision cycle.
+Since the Seminar in Topology is an [undergraduate math seminar](http://mathcomm.org/courses/course-structure/), parts of the course structure were pre-determined. For example, it was required that students give the vast majority of class lectures and that students write at least one substantial math paper with a revision cycle.
 
 As the course instructor, I built upon these requirements and what prior Seminar in Topology instructors had done. I was given a basic set of guidelines. I looked at past course websites for Seminar in Topology that were still on the web. I also discussed ideas with Susan Ruff, the MIT math department's writing instructor, who has been involved in many of the undergraduate math seminars in recent years.
 
@@ -22,7 +22,7 @@ For information about the course's structure, see the course's {{% resource_link
 
 ## Picking the Textbook and Topics to Cover
 
-This course was designed to serve as an introduction to algebraic topology. I was allowed to choose the textbook, and I picked {{% resource_link "8457de07-de4c-416f-b8be-d4871f7971bc" "Allen Hatcher's textbook on algebraic topology" %}}. This was different from what had been used in the past, but I chose it because it was available for free online. That way, students didn't have to buy anything. We followed the textbook pretty closely.
+This course was designed to serve as an introduction to algebraic topology. I was allowed to choose the textbook, and I picked [Allen Hatcher's textbook on algebraic topology](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html). This was different from what had been used in the past, but I chose it because it was available for free online. That way, students didn't have to buy anything. We followed the textbook pretty closely.
 
 From what I could see of old Seminar in Topology course web sites, it seemed the course typically includes covering spaces and the fundamental group, and maybe some homology. I aimed to be more ambitious and cover more material, so in addition to those topics, we covered cohomology and Poincare duality. I think I was a bit too ambitious and tried to cover too much. Doing covering spaces, the fundamental group, and homology would have worked well, but doing cohomology and Poincare duality was just a bit too much. If I were to teach this course again, I think I would cut the material back to 75% or so.
 

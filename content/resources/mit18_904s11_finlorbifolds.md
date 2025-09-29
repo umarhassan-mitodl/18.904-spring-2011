@@ -4,6 +4,8 @@ description: This resource contains information regarding introduction to orbifo
 file: /courses/18-904-seminar-in-topology-spring-2011/ddb67681e7f75f31931a73d2fd1ecb41_MIT18_904S11_finlOrbifolds.pdf
 file_size: 380803
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

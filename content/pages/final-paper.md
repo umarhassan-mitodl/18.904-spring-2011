@@ -3,6 +3,8 @@ content_type: page
 description: This section includes guidelines for writing the final paper for the
   course, LaTeX guidelines, a list of possible paper topics, and sample final papers
   written by students in the class.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Final Paper
@@ -18,7 +20,7 @@ uid: 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116
 {{< anchor "1" >}}{{< /anchor >}}Guidelines
 -------------------------------------------
 
-The final paper is an approximately 10 page exposition on a topic in algebraic topology not covered in our seminar. The paper must be written in {{% resource_link "d7810449-91e4-4787-a762-201df4d2fe0f" "LaTeX" %}} (or some other flavor of {{% resource_link "daca64d8-b38c-4ee0-9001-9f0a82312f49" "TeX" %}}).
+The final paper is an approximately 10 page exposition on a topic in algebraic topology not covered in our seminar. The paper must be written in [LaTeX](http://www.latex-project.org/) (or some other flavor of [TeX](http://en.wikipedia.org/wiki/TeX)).
 
 Here are some {{% resource_link f375162f-a875-71fd-6b8a-9a281944cf8f "LaTeX guidelines (PDF)" %}}—and the {{% resource_link e8009715-bf17-ba32-251f-acf8ce619c9c "LaTeX guidelines .tex source" %}}—that gives some examples of how to do things like matrices and commutative diagrams, and also discusses some things that you should and should not do in latex (repeated in abridged form below).
 
