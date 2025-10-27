@@ -13,9 +13,9 @@ uid: 18ac083f-71d7-7895-10a9-fb5ff0ff557f
 
 This page focuses on the course _18.904_ _Seminar in Topology_ as it was taught by Dr. Andrew Snowden in Spring 2011.
 
-Seminar in Topology is an [undergraduate math seminar](http://mathcomm.org/courses/course-structure/). As with all such seminars, the majority of lectures for this class are given by the students as part of their coursework. Students also write a final expository paper. This particular seminar serves as an introduction to algebraic topology at an advanced undergraduate level.
+Seminar in Topology is an {{% resource_link "4e536cfe-b506-4079-89a9-b395ef48b887" "undergraduate math seminar" %}}. As with all such seminars, the majority of lectures for this class are given by the students as part of their coursework. Students also write a final expository paper. This particular seminar serves as an introduction to algebraic topology at an advanced undergraduate level.
 
-Additional information and resources related to MIT's undergraduate math seminars and teaching mathematical communication are available on the [MathDL Mathematical Communication](http://mathcomm.org/) website.
+Additional information and resources related to MIT's undergraduate math seminars and teaching mathematical communication are available on the {{% resource_link "77bc0642-7032-4533-9966-38f816a7a78f" "MathDL Mathematical Communication" %}} website.
 
 ## Course Outcomes
 
@@ -46,8 +46,8 @@ In the following pages, Dr. Andrew Snowden discusses specific aspects of his exp
 
 ### Requirements Satisfied
 
-- CI-M ![](/images/educator/icon-question-cim.png) in [Mathematics](http://web.mit.edu/commreq/cim/course18.html)
-- 18.904 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/), but is not required.
+- CI-M ![](/images/educator/icon-question-cim.png) in {{% resource_link "ef4c7964-f356-4617-b8c3-67a454081b38" "Mathematics" %}}
+- 18.904 can be applied toward a {{% resource_link "af3dfcd9-cc34-4b5d-ad36-431278d5f8e6" "Bachelor of Science in Mathematics" %}}, but is not required.
 
 ### Offered
 

@@ -22,7 +22,6 @@
     "website": "18-904-seminar-in-topology-spring-2011"
   },
   "course_title": "Seminar in Topology",
-  "hide_download": true,
   "course_description": "This course is a seminar in topology. The main mathematical goal is to learn about the fundamental group, homology and cohomology. The main non-mathematical goal is to obtain experience giving math talks.\n",
   "department_numbers": [
     "18"
@@ -33,7 +32,6 @@
     "content": "855f68ec-f732-f2f4-ded0-f5beb14387f0",
     "website": "18-904-seminar-in-topology-spring-2011"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Projects with Examples",
