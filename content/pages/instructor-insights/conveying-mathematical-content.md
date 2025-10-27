@@ -3,8 +3,6 @@ content_type: page
 description: In this section, Dr. Snowden explains the mathematical goals of this
   undergraduate math seminar course and the implications of teaching mathematical
   content under this course structure.
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -22,11 +20,11 @@ Mathematical Goal of the Course
 
 {{< quote "I assumed the students were smart and knew the math they said they had learned. I didn't correct every little mistake they made, I gave them hard and interesting problems to work on, and I moved the class at a fast pace." "— Dr. Snowden" >}}
 
-Because of the [undergraduate math seminar](http://mathcomm.org/courses/course-structure/) structure of the course, the experience of learning mathematical content in this course was different from that of many other math courses.
+Because of the {{% resource_link "4e536cfe-b506-4079-89a9-b395ef48b887" "undergraduate math seminar" %}} structure of the course, the experience of learning mathematical content in this course was different from that of many other math courses.
 
 The mathematical goal of Seminar in Topology was to introduce students to algebraic topology. I wanted to show the students the landscape of a subject they'd likely see in a first-semester class in math graduate school; I thought it would be good to expose them to this material.
 
-We followed [Allen Hatcher's textbook on algebraic topology](http://www.math.cornell.edu/~hatcher/#ATI) fairly closely. We covered the fundamental group and covering spaces, then homology, and then cohomology and Poincaré duality. For the final 2 weeks of the course, students lectured on the topics they had explored in their {{% resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "final papers" %}}.
+We followed {{% resource_link "668a1e0f-3ebe-4469-82da-16d4bc401e40" "Allen Hatcher's textbook on algebraic topology" %}} fairly closely. We covered the fundamental group and covering spaces, then homology, and then cohomology and Poincaré duality. For the final 2 weeks of the course, students lectured on the topics they had explored in their {{% resource_link 6b9bfa3d-ceed-67e5-a93d-cd0254b0e116 "final papers" %}}.
 
 I assumed the students were smart and knew the math they said they had learned. I didn't correct every little mistake they made, I gave them hard and interesting problems to work on, and I moved the class at a fast pace.
 

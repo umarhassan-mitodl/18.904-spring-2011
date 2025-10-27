@@ -5,8 +5,6 @@ description: This resource contains information regarding an introduction to sim
 file: /courses/18-904-seminar-in-topology-spring-2011/630fecdd09a790c319d575f60287dfbc_MIT18_904S11_finlSmplicial.pdf
 file_size: 185269
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

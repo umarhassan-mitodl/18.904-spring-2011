@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section includes comments by the instructor on his experience teaching
   this course and recommendations for people who might teach it in the future.    '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Teaching Notes
@@ -30,7 +28,7 @@ I gave three problem sets, each consisting of about 5 difficult problems. I gave
 Material
 --------
 
-We followed [Allen Hatcher's textbook on algebraic topology](http://www.math.cornell.edu/~hatcher/AT/ATpage.html) fairly closely. We spent February and the beginning of March on the fundamental group and covering spaces, March through the beginning of April on homology and the rest of April on cohomology and Poincare duality. The two weeks in May I had the students lecture on their final papers. I think I was a bit too ambitious, and tried to cover too much. I think doing the fundamental group, covering spaces and homology would have worked well, but doing cohomology and duality was just a bit too much.
+We followed {{% resource_link "c00de4bd-2e3a-4f5a-bd5b-27b94cb99608" "Allen Hatcher's textbook on algebraic topology" %}} fairly closely. We spent February and the beginning of March on the fundamental group and covering spaces, March through the beginning of April on homology and the rest of April on cohomology and Poincare duality. The two weeks in May I had the students lecture on their final papers. I think I was a bit too ambitious, and tried to cover too much. I think doing the fundamental group, covering spaces and homology would have worked well, but doing cohomology and duality was just a bit too much.
 
 Instructor Observations and Comments
 ------------------------------------
